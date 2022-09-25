@@ -27,6 +27,8 @@
 
 6. [alfred-timelog](https://github.com/cage1016/alfred-timelog)
     > You could leverage Alfred and Google Sheets to track your time with ease. The goal is to track your time in a way that is easy to understand how much time you spend on.
+7. [alfred-fork-open](https://github.com/cage1016/alfred-fork-open)
+   > Alfred 5 workflow for opening folders in Fork.
 
 ## My Collections
 
